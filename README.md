@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This API isn't currently being updated, but I hope you find it useful for your coding projects.
+
+Use these routes to request data on Harry Potter characters:
+ APIs http://hp-api.herokuapp.com/api/characters
+
+
 
 ## Available Scripts
 
